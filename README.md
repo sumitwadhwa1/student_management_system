@@ -60,6 +60,12 @@ Add your GitHub Pages website link here once deployed.
 - Store student records persistently
 - Enhance the user interface
 - Add student data sorting
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 2 44 06 AM" src="https://github.com/user-attachments/assets/6a88fb50-0978-4575-be17-d07018d879db" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 2 44 00 AM" src="https://github.com/user-attachments/assets/9eec8dbd-e888-42ae-a3ca-3aa06a077ea6" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 2 43 54 AM" src="https://github.com/user-attachments/assets/e46f279f-acd4-42f9-b5b0-d6d27c638dd4" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 2 43 47 AM" src="https://github.com/user-attachments/assets/9b8f8100-5535-4be2-ba3f-d9ff0acb3e17" />
+<img width="1470" height="956" alt="Screenshot 2026-10-13 at 2 43 37 AM" src="https://github.com/user-attachments/assets/8b55cff1-3b4c-4e4d-8112-b0d78db73463" />
+
 
 ## Author
 
